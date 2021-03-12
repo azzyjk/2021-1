@@ -1,0 +1,13 @@
+#include<iostream>
+
+using namespace std;
+
+int main(){
+	int test = 0;
+	double test2 = 0;
+	cout << "int 의 사이즈는 몇일까요?" << endl;
+	return 0;
+}
+
+// int 가 잘 출력되고 있나요?
+// 이게 마지막 문장 입니다!
