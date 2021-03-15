@@ -1,4 +1,5 @@
 OOP
+MobileProgramming/Week_1
 .DS_Store
 .idea/shelf
 /confluence/target
@@ -69,3 +70,7 @@ outTmp/
 /test.output
 /kotlin-native/dist
 .vscode/c_cpp_properties.json
+AlgorithmPractice/.vscode/settings.json
+MobileProgramming/.idea/codeStyles/Project.xml
+MobileProgramming/.idea/modules.xml
+MobileProgramming/.idea/vcs.xml
