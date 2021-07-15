@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">3_4</string>
+    <string-array name="countries2">
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>Bahrain</item>
+        <item>Bangladesh</item>
+        <item>Barbados</item>
+        <item>Belarus</item>
+    </string-array>
+</resources>
